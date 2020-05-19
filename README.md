@@ -1,8 +1,8 @@
-pROJECT-LOGINPAGE
+PROJECT-LOGINPAGE
 
-CLICK HERE TO VIEW PROJECT   ::::  
+CLICK HERE TO VIEW PROJECT   ::::  login page
                   
-                  https://venkat-venky.github.io/PROJECT-login/
+             DEMO:::  https://venkat-venky.github.io/PROJECT-login/
     
                         Using html and css basic login page 
     
